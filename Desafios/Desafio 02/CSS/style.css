@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+    color:white;
+}
+
+body input{
+    width: 50px;
+    text-align: center;
+}

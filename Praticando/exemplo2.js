@@ -1,0 +1,3 @@
+function pratica(){
+    alert("Foi")
+}

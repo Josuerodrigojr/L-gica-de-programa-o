@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(139, 180, 26);
+}
+
+body input{
+    width: 30px;
+    text-align: center;
+}
